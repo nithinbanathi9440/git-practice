@@ -1,3 +1,3 @@
-Hello from Developer 2
+Hello from Developer 1 and Developer 2
 This is my first Git practice.
-This is my feature branch change.This is my feature branch change.
+This is my feature branch change.
